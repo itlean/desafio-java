@@ -1,4 +1,4 @@
-# Desafio Java Concrete Solutions
+# Desafio Java IT Lean
 
 Crie uma aplicação que exponha uma API RESTful de criação de usuários e login.
 
